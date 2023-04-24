@@ -1,5 +1,3 @@
-Sure, here is the updated README with the additional information:
-
 # 🐍 vnv - Python Virtual Environment Creator
 
 vnv is a simple bash script that helps you create and activate Python virtual environments using pyenv and venv. This is helpful because it allows you to create isolated environments for different projects or applications, which means you can install specific versions of Python and packages without affecting other projects on your system. It also helps to ensure that your application or project has all the required dependencies installed without conflicts with other versions of packages.
