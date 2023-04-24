@@ -26,19 +26,19 @@ git clone https://github.com/davids1993/vnv.git
 2. Copy the vnv script to your `$PATH`:
 
 ```bash
-cp vnv/vnv /usr/local/bin/
+cp vnv/vnv.sh /usr/local/bin/
 ```
 
 3. Make the script executable:
 
 ```bash
-chmod +x /usr/local/bin/vnv
+chmod +x /usr/local/bin/vnv.sh
 ```
 
 4. Soure the script:
 
 ```bash
-source /usr/local/bin/vnv
+source /usr/local/bin/vnv.sh
 ```
 
 ## Usage
