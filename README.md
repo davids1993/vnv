@@ -39,6 +39,7 @@ chmod +x /usr/local/bin/vnv
 
 ```bash
 source /usr/local/bin/vnv
+```
 
 ## Usage
 
